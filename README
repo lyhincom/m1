@@ -16,9 +16,11 @@ ToDo: MA-1 Wiki
 
 Theoretical Questions:
 - Done: HTTP and REST; [8 Aug 2026]
-- Done: String; [15 Aug 2026]
-- ToDo: GC;
-- ...
+- Done: .NET String; [15 Aug 2026]
+- Done: .NET GC [22 Aug 2026];
+- ToDo: .NET Async;
+- ToDo: .NET EF;
+- ToDo: SQL Server;
 
 Practical Sessions:
 ToDo: MA-10
